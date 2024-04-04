@@ -26,7 +26,7 @@ Things to turn in:<br>
 - Don't forget the peer review!<br><br>
 
 <b>Resources:</b> <br>
-<b>GitHub:</b> ------ <br><br>
+<b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_5-7_Enndpoints_MVC <br><br>
 
 
 Peer Reviewed by: _________ <br>
