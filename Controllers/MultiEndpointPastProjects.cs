@@ -18,6 +18,18 @@ namespace MiniChallenge_5_7_Enndpoints_MVC.Controllers
             return madLibText;
         }
 
+        [HttpGet("/OddOrEven")]
+        public string OddOrEven(int x = 5){
+            string answer;
+            if(x%2 == 1){
+                answer = "odd";
+            }
+            else{
+                answer = "even";
+            }
+            return $"The number you chose is {answer}!";
+        }
+
         [HttpGet("/ReverseItAll")]
             public string ReverseItAll(string userInput)
             {
