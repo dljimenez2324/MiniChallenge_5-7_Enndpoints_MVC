@@ -19,6 +19,7 @@ namespace MiniChallenge_5_7_Enndpoints_MVC.Controllers
         }
 
         [HttpGet("/OddOrEven")]
+        // works for integers 0 or greater
         public string OddOrEven(int x = 5){
             string answer;
             if(x%2 == 1){
