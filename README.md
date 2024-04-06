@@ -29,5 +29,5 @@ Things to turn in:<br>
 <b>GitHub:</b> https://github.com/dljimenez2324/MiniChallenge_5-7_Enndpoints_MVC <br><br>
 
 
-Peer Reviewed by: _________ <br>
-Comments: ________________________ <br>
+Peer Reviewed by: Julius <br>
+Comments: Code runs perfectly, and is formatted nicely. Like the use of validation for integers only on the reverse numbers function, and I Don't see any flaws in the code.  <br>
